@@ -11,9 +11,9 @@
     <description>Des exclus de fave</description>
     <itunes:owner>
       <itunes:name>Fave (fan)</itunes:name>
-      <itunes:email>eheh boyyy</itunes:email>
+      <itunes:email>saistoimemetu@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="/logo.png"/>
+    <itunes:image href="logo.png"/>
     <itunes:category text="Music">
     </itunes:category>
     <itunes:explicit>yes</itunes:explicit>
@@ -25,7 +25,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/1.mp3" length="1634566" type="audio/mpeg"/>
+      <enclosure url="son/1.mp3" length="1634566" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -36,7 +36,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/10.mp3" length="1676205" type="audio/mpeg"/>
+      <enclosure url="son/10.mp3" length="1676205" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -47,7 +47,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/12.08.22.mp3" length="1186167" type="audio/mpeg"/>
+      <enclosure url="son/12.08.22.mp3" length="1186167" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -58,7 +58,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/2.mp3" length="462817" type="audio/mpeg"/>
+      <enclosure url="son/2.mp3" length="462817" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -69,7 +69,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/2311.mp3" length="894151" type="audio/mpeg"/>
+      <enclosure url="son/2311.mp3" length="894151" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -80,7 +80,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/3.mp3" length="721396" type="audio/mpeg"/>
+      <enclosure url="son/3.mp3" length="721396" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -91,7 +91,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/4.mp3" length="342725" type="audio/mpeg"/>
+      <enclosure url="son/4.mp3" length="342725" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -102,7 +102,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/5.mp3" length="734771" type="audio/mpeg"/>
+      <enclosure url="son/5.mp3" length="734771" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -113,7 +113,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/6.mp3" length="331787" type="audio/mpeg"/>
+      <enclosure url="son/6.mp3" length="331787" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -124,7 +124,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/7.mp3" length="790706" type="audio/mpeg"/>
+      <enclosure url="son/7.mp3" length="790706" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -135,7 +135,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/8.mp3" length="1130996" type="audio/mpeg"/>
+      <enclosure url="son/8.mp3" length="1130996" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -146,7 +146,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/9.mp3" length="527045" type="audio/mpeg"/>
+      <enclosure url="son/9.mp3" length="527045" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -157,7 +157,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Abeille.mp3" length="1151058" type="audio/mpeg"/>
+      <enclosure url="son/Abeille.mp3" length="1151058" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -168,7 +168,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Aqua (DVM SHOW).mp3" length="2119190" type="audio/mpeg"/>
+      <enclosure url="son/Aqua (DVM SHOW).mp3" length="2119190" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -179,7 +179,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Benefice live insta 02-11-2021.mp3" length="738043" type="audio/mpeg"/>
+      <enclosure url="son/Benefice live insta 02-11-2021.mp3" length="738043" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -190,7 +190,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/BIJOUX.mp3" length="517432" type="audio/mpeg"/>
+      <enclosure url="son/BIJOUX.mp3" length="517432" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -201,7 +201,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Booska-P.mp3" length="1351679" type="audio/mpeg"/>
+      <enclosure url="son/Booska-P.mp3" length="1351679" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -212,7 +212,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/CHAUD.mp3" length="945422" type="audio/mpeg"/>
+      <enclosure url="son/CHAUD.mp3" length="945422" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -223,7 +223,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/DESTINEE.mp3" length="2947865" type="audio/mpeg"/>
+      <enclosure url="son/DESTINEE.mp3" length="2947865" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -234,7 +234,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Diez a faire.mp3" length="1457769" type="audio/mpeg"/>
+      <enclosure url="son/Diez a faire.mp3" length="1457769" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -245,7 +245,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/elle a capte c est la quelle.mp3" length="489011" type="audio/mpeg"/>
+      <enclosure url="son/elle a capte c est la quelle.mp3" length="489011" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -256,7 +256,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Elle Veut De Moi.mp3" length="1395982" type="audio/mpeg"/>
+      <enclosure url="son/Elle Veut De Moi.mp3" length="1395982" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -267,7 +267,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/EPROUVE.mp3" length="745567" type="audio/mpeg"/>
+      <enclosure url="son/EPROUVE.mp3" length="745567" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -278,7 +278,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Fave sans studio.mp3" length="1608235" type="audio/mpeg"/>
+      <enclosure url="son/Fave sans studio.mp3" length="1608235" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -289,7 +289,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Favelas (Feat Kvnnn12k,SM).mp3" length="1184913" type="audio/mpeg"/>
+      <enclosure url="son/Favelas (Feat Kvnnn12k,SM).mp3" length="1184913" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -300,7 +300,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Flashback ft. Dadi (Nouvelle ecole).mp3" length="3695314" type="audio/mpeg"/>
+      <enclosure url="son/Flashback ft. Dadi (Nouvelle ecole).mp3" length="3695314" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -311,7 +311,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Freestyle Booska ILF.mp3" length="2873886" type="audio/mpeg"/>
+      <enclosure url="son/Freestyle Booska ILF.mp3" length="2873886" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -322,7 +322,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Freestyle Drill.mp3" length="2358053" type="audio/mpeg"/>
+      <enclosure url="son/Freestyle Drill.mp3" length="2358053" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -333,7 +333,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Freestyle Plugged ft Fumez the Engineer.mp3" length="2725928" type="audio/mpeg"/>
+      <enclosure url="son/Freestyle Plugged ft Fumez the Engineer.mp3" length="2725928" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -344,7 +344,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/live insta 23-12-2023.mp3" length="672215" type="audio/mpeg"/>
+      <enclosure url="son/live insta 23-12-2023.mp3" length="672215" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -355,7 +355,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/MARGIELA (ft. Fave).mp3" length="1939329" type="audio/mpeg"/>
+      <enclosure url="son/MARGIELA (ft. Fave).mp3" length="1939329" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -366,7 +366,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Panique.mp3" length="2344332" type="audio/mpeg"/>
+      <enclosure url="son/Panique.mp3" length="2344332" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -377,7 +377,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/POUR MES FRERES.mp3" length="2497723" type="audio/mpeg"/>
+      <enclosure url="son/POUR MES FRERES.mp3" length="2497723" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -388,7 +388,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/RapLeader.mp3" length="2475989" type="audio/mpeg"/>
+      <enclosure url="son/RapLeader.mp3" length="2475989" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -399,7 +399,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Rapomaton.mp3" length="2581870" type="audio/mpeg"/>
+      <enclosure url="son/Rapomaton.mp3" length="2581870" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -410,7 +410,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Sans Efforts.mp3" length="625965" type="audio/mpeg"/>
+      <enclosure url="son/Sans Efforts.mp3" length="625965" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -421,7 +421,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Snowfall pt.2.mp3" length="3235769" type="audio/mpeg"/>
+      <enclosure url="son/Snowfall pt.2.mp3" length="3235769" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -432,7 +432,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Snowfall.mp3" length="2810833" type="audio/mpeg"/>
+      <enclosure url="son/Snowfall.mp3" length="2810833" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -443,7 +443,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Supershooter.mp3" length="2917283" type="audio/mpeg"/>
+      <enclosure url="son/Supershooter.mp3" length="2917283" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -454,7 +454,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Ta Miss.mp3" length="803316" type="audio/mpeg"/>
+      <enclosure url="son/Ta Miss.mp3" length="803316" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -465,7 +465,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Toseina ft Mougli.mp3" length="1291690" type="audio/mpeg"/>
+      <enclosure url="son/Toseina ft Mougli.mp3" length="1291690" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
 <item>
@@ -476,7 +476,7 @@
       <itunes:duration>00:30:00</itunes:duration>
       <itunes:summary>EXCLU de Fave, tous les droits lui reviennent</itunes:summary>
       <description>EXCLU de Fave, tous les droits lui reviennent</description>
-      <enclosure url="/son/Viking.mp3" length="1342701" type="audio/mpeg"/>
+      <enclosure url="son/Viking.mp3" length="1342701" type="audio/mpeg"/>
       <itunes:explicit>yes</itunes:explicit>
 </item>
   </channel>
