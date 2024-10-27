@@ -15,6 +15,11 @@
       <itunes:name>Fave (fan)</itunes:name>
       <itunes:email>saistoimemetu@gmail.com</itunes:email>
     </itunes:owner>
+    <image>
+      <url>icon.png</url>
+      <title>Fave EXCLU</title>
+      <link>https://fave-shop.fr/</link>
+    </image>
     <itunes:image href="logo.png"/>
     <image href="logo.png"/>
     
