@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Favé EXCLU</title>
+  <link rel="icon" type="image/png" href="logo.png">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      overflow: hidden;
+      background-color: black;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+    }
+
+    /* Background image with blur effect */
+    #background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('logo.png');
+      background-size: cover;
+      background-position: center;
+      filter: blur(15px);
+      z-index: -1;
+    }
+
+    /* Main content container */
+    #content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      z-index: 1;
+    }
+
+    /* Logo image */
+    #logoImage {
+      width: 150px;
+      height: 150px;
+      margin-bottom: 20px;
+    }
+
+    /* "Favé EXCLU" text */
+    #title {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    /* Countdown text */
+    #countdown {
+      font-size: 3em;
+      text-align: center;
+    }
+
+    /* Spotify image */
+    #spotifyImage {
+      display: none;
+      max-width: 100%;
+      height: auto;
+    }
+    /* Style du bouton Instagram */
+  #instagramButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: white;
+    color: black;
+    border-radius: 50px;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s ease;
+  }
+
+  #instagramButton img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+  }
+
+  #instagramButton:hover {
+    transform: scale(1.1);
+  }
+  </style>
+</head>
+<body>
+  <!-- Blurred background image -->
+  <div id="background"></div>
+
+  <!-- Main content -->
+  <div id="content">
+    <img id="logoImage" src="logo.png" alt="Logo">
+    <div id="title">Favé EXCLU</div>
+    <div id="countdown"></div>
+    <a href="https://open.spotify.com/show/3kMpet5lxQcwowbg6RTJLu"><img id="spotifyImage" src="spotify.png" alt="Spotify Logo"></a>
+  </div>
+  <a href="https://www.instagram.com/fave_exclu" target="_blank" id="instagramButton">
+    <img src="instagram.webp" alt="Instagram Logo">
+    <span>Instagram</span>
+  </a>
+  <script>
+    // Date cible (1er novembre 2024 à 00:00 GMT)
+    const targetDate = new Date("2024-11-01T00:00:00Z").getTime();
+
+    // Mettre à jour le compte à rebours chaque seconde
+    const interval = setInterval(function() {
+      const now = new Date().getTime();
+      const distance = targetDate - now;
+
+      // Calcul des jours, heures, minutes et secondes
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      // Affichage du compte à rebours
+      document.getElementById("countdown").innerHTML = 
+        days + "j " + hours + "h " + minutes + "m " + seconds + "s ";
+
+      // Si le compte à rebours est terminé, afficher l'image
+      if (distance < 0) {
+        clearInterval(interval);
+        document.getElementById("countdown").style.display = "none";
+        document.getElementById("spotifyImage").style.display = "block";
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
