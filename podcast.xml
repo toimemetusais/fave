@@ -12,14 +12,14 @@
 			<title>Fave EXCLU</title>
 			<link>https://podcasters.spotify.com/pod/show/fave_exclu_reborn</link>
 		</image>
-		<generator>Toimemetusais</generator>
+		<generator>Fave (fan)</generator>
 		<lastBuildDate>Sun, 27 Oct 2024 22:56:52 GMT</lastBuildDate>
 		<atom:link href="https://toimemetusais.github.io/fave/podcast.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Fave (fan)]]></author>
-		<copyright><![CDATA[Toimemetusais]]></copyright>
+		<copyright><![CDATA[Fave (fan)]]></copyright>
 		<language><![CDATA[fr]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>Toimemetusais</itunes:author>
+		<itunes:author>Fave (fan)</itunes:author>
 		<itunes:summary>Les EXCLU de Fave en un podcast</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
